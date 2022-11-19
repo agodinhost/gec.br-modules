@@ -1,22 +1,36 @@
 {
-  "name": "@hackney/eslint-config",
-  "version": "1.4.1",
-  "description": "Eslint config for LBH Modern Tools for Housing",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LBHackney-IT/mtfh-frontend.git"
-  },
-  "author": "https://hackney.gov.uk/",
+  "name": "@godinho/react-eslint-config",
+  "version": "1.0.0",
+  "description": "Eslint config library for React or Typescript applications",
+
+  "private": "false",
   "license": "MIT",
+  "author": {
+    "name": "Woody Godinho",
+    "email": "agodinhost@gmail.com"
+  },
+  "keywords": ["eslint", "react","typescript", "javascript", "libraries"],
   "publishConfig": {
     "access": "public"
   },
+
+  "homepage": "https://github.com/agodinhost/modules",
+  "main": "index.js",
+  "readmeFilename": "README.md",
   "files": [
     "all.js",
     "base.js",
     "index.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agodinhost/modules.git",
+    "directory": "modules/react/eslint-config"
+  },
+  "bugs": {
+    "url": "https://github.com/agodinhost/modules/issues"
+  },
+
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "5.4.0",
     "eslint": "^7.32.0",

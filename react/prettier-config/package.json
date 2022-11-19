@@ -1,20 +1,31 @@
 {
-  "name": "@godinho/prettier-config",
+  "name": "@godinho/react-prettier-config",
   "version": "1.0.0",
-  "description": "Prettier config for LBH Modern Tools for Housing",
-  "author": "Gareth Cozens <gareth.cozens@amido.com>",
-  "homepage": "https://github.com/LBHackney-IT/mtfh-frontend",
+  "description": "Prettier config library for React or Typescript applications",
+
+  "private": "false",
   "license": "MIT",
-  "main": "index.js",
+  "author": {
+    "name": "Woody Godinho",
+    "email": "agodinhost@gmail.com"
+  },
+  "keywords": ["prettier", "react","typescript", "javascript", "libraries"],
   "publishConfig": {
     "access": "public"
   },
+
+  "homepage": "https://github.com/agodinhost/modules",
+  "main": "index.js",
+  "readmeFilename": "README.md",
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LBHackney-IT/mtfh-frontend.git",
-    "directory": "modules/react18/prettier-config"
+    "url": "git+https://github.com/agodinhost/modules.git",
+    "directory": "modules/react/prettier-config"
   },
   "bugs": {
-    "url": "https://github.com/LBHackney-IT/mtfh-frontend/issues"
+    "url": "https://github.com/agodinhost/modules/issues"
   }
 }

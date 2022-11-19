@@ -1,12 +1,14 @@
 # `@godinho/react18-eslint-config`
 
-Eslint config for TS and React 18 projects.
+Eslint config for TS and React projects.
+
+Based on LBHackney-IT work, @hackney/eslint-config:1.4.1
 
 ## Installation
 
 ```bash
-npm install @godinho/react18-eslint-config -D
-yarn add @godinho/react18-eslint-config -D
+npm install @godinho/react-eslint-config -D
+yarn add @godinho/react-eslint-config -D
 ```
 
 Add the library dependencies
@@ -21,7 +23,7 @@ For React based projects configure a `.eslintrc` file:
 
 ```json
 {
-  "extends": "@godinho/react18-eslint-config"
+  "extends": "@godinho/react-eslint-config"
 }
 ```
 
@@ -29,6 +31,6 @@ For non React based TS projects:
 
 ```json
 {
-  "extends": "@godinho/react18-eslint-config/base"
+  "extends": "@godinho/react-eslint-config/base"
 }
 ```
