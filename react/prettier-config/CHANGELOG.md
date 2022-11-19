@@ -1,5 +1,5 @@
 
-# @gec-br/prettier-config
+# @gec.br/prettier-config
 
 ## 1.0.0
 

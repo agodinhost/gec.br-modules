@@ -1,5 +1,5 @@
 {
-  "name": "@gec-br/react-eslint-config",
+  "name": "@gec.br/react-eslint-config",
   "version": "1.0.0",
   "description": "Eslint config library for React or Typescript applications",
   "private": false,

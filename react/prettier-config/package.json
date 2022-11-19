@@ -1,5 +1,5 @@
 {
-  "name": "@gec-br/react-prettier-config",
+  "name": "@gec.br/react-prettier-config",
   "version": "1.0.0",
   "description": "Prettier config library for React or Typescript applications",
   "private": false,
