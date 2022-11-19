@@ -1,22 +1,23 @@
 {
-  "name": "@godinho/react-eslint-config",
-  "version": "1.0.0",
+  "name": "@godinhost/react-eslint-config",
+  "version": "1.0.1",
   "description": "Eslint config library for React or Typescript applications",
-
-  "private": "false",
+  "private": false,
   "license": "MIT",
-  "author": {
-    "name": "Woody Godinho",
-    "email": "agodinhost@gmail.com"
-  },
-  "keywords": ["eslint", "react","typescript", "javascript", "libraries"],
+  "author": "Woody Godinho <agodinhost@gmail.com>",
+  "keywords": [
+    "eslint",
+    "react",
+    "typescript",
+    "javascript",
+    "libraries"
+  ],
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
-
   "homepage": "https://github.com/agodinhost/modules",
   "main": "index.js",
-  "readmeFilename": "README.md",
   "files": [
     "all.js",
     "base.js",
@@ -30,7 +31,6 @@
   "bugs": {
     "url": "https://github.com/agodinhost/modules/issues"
   },
-
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "5.43.0",
     "eslint": "8.28.0",
@@ -50,5 +50,8 @@
   "dependencies": {
     "@typescript-eslint/parser": "5.43.0",
     "eslint-import-resolver-typescript": "3.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

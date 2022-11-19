@@ -1,3 +1,8 @@
+
+# @godinhost/eslint-config
+
+## 1.0.0
+
 # @hackney/eslint-config
 
 ## 1.4.1
