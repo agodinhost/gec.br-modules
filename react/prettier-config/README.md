@@ -1,3 +1,4 @@
+
 # `@gec.br/react-prettier-config`
 
 A configuration for prettier, to create consistancy across multiple projects.

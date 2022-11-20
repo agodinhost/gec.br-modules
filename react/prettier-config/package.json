@@ -16,17 +16,17 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "homepage": "https://github.com/agodinhost/modules",
+  "homepage": "https://github.com/agodinhost/gec.br-modules",
   "main": "index.js",
   "files": [
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agodinhost/modules.git",
-    "directory": "modules/react/prettier-config"
+    "url": "git+https://github.com/agodinhost/gec.br-modules.git",
+    "directory": "react/prettier-config"
   },
   "bugs": {
-    "url": "https://github.com/agodinhost/modules/issues"
+    "url": "https://github.com/agodinhost/gec.br-modules/issues"
   }
 }

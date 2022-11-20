@@ -16,7 +16,7 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "homepage": "https://github.com/agodinhost/modules",
+  "homepage": "https://github.com/agodinhost/gec.br-modules",
   "main": "index.js",
   "files": [
     "all.js",
@@ -25,11 +25,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agodinhost/modules.git",
-    "directory": "modules/react/eslint-config"
+    "url": "git+https://github.com/agodinhost/gec.br-modules.git",
+    "directory": "react/eslint-config"
   },
   "bugs": {
-    "url": "https://github.com/agodinhost/modules/issues"
+    "url": "https://github.com/agodinhost/gec.br-modules/issues"
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "5.43.0",
