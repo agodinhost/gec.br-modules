@@ -1,7 +1,6 @@
 # @pastel/fresquinho
 
-A Micro-frontend application for Hackney.
-
+@gec.js eslint and prettier config tests.
 
 ## Installation
 
