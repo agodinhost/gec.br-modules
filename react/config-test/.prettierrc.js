@@ -1,4 +1,4 @@
 module.exports = {
-  ...require("@hackney/prettier-config"),
+  ...require("@gec.js/react-prettier-config"),
 };
   
