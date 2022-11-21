@@ -1,5 +1,5 @@
 {
-  "name": "@gec.br/react-eslint-config",
+  "name": "@gec.js/react-eslint-config",
   "version": "1.0.0",
   "description": "Eslint config library for React or Typescript applications",
   "private": false,
@@ -16,7 +16,7 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "homepage": "https://github.com/agodinhost/gec.br-modules",
+  "homepage": "https://github.com/agodinhost/gec.js-modules",
   "main": "index.js",
   "files": [
     "all.js",
@@ -25,11 +25,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agodinhost/gec.br-modules.git",
+    "url": "git+https://github.com/agodinhost/gec.js-modules.git",
     "directory": "react/eslint-config"
   },
   "bugs": {
-    "url": "https://github.com/agodinhost/gec.br-modules/issues"
+    "url": "https://github.com/agodinhost/gec.js-modules/issues"
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "5.43.0",

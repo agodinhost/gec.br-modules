@@ -1,5 +1,5 @@
 
-# @gec.br/react-prettier-config
+# @gec.js/react-prettier-config
 
 ## 1.0.0
 

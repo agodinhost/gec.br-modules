@@ -1,5 +1,5 @@
 {
-  "name": "@gec.br/react-prettier-config",
+  "name": "@gec.js/react-prettier-config",
   "version": "1.0.0",
   "description": "Prettier config library for React or Typescript applications",
   "private": false,
@@ -16,17 +16,17 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "homepage": "https://github.com/agodinhost/gec.br-modules",
+  "homepage": "https://github.com/agodinhost/gec.js-modules",
   "main": "index.js",
   "files": [
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agodinhost/gec.br-modules.git",
+    "url": "git+https://github.com/agodinhost/gec.js-modules.git",
     "directory": "react/prettier-config"
   },
   "bugs": {
-    "url": "https://github.com/agodinhost/gec.br-modules/issues"
+    "url": "https://github.com/agodinhost/gec.js-modules/issues"
   }
 }

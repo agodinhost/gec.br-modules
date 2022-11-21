@@ -1,5 +1,5 @@
 
-# @gec.br/react-eslint-config
+# @gec.js/react-eslint-config
 
 ## 1.0.0
 

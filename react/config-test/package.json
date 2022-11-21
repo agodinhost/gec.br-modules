@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "main": "src/pastel-fresquinho.tsx",
     "devDependencies": {
-        "@gec.br/react-eslint-config": "1.0.0",
-        "@gec.br/react-prettier-config": "1.0.0",
+        "@gec.js/react-eslint-config": "1.0.0",
+        "@gec.js/react-prettier-config": "1.0.0",
         "@typescript-eslint/eslint-plugin": "^5.43.0",
         "eslint": "8.27.0",
         "eslint-config-prettier": "^8.5.0",
