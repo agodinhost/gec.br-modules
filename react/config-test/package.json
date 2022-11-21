@@ -2,20 +2,8 @@
     "name": "@pastel/fresquinho",
     "version": "1.0.0",
     "main": "src/pastel-fresquinho.tsx",
-    "devDependencies": {
+    "dependencies": {
         "@gec.js/react-eslint-config": "1.0.0",
-        "@gec.js/react-prettier-config": "1.0.0",
-        "@typescript-eslint/eslint-plugin": "^5.43.0",
-        "eslint": "8.27.0",
-        "eslint-config-prettier": "^8.5.0",
-        "eslint-config-react": "^1.1.7",
-        "eslint-plugin-import": "^2.26.0",
-        "eslint-plugin-jest": "^27.1.5",
-        "eslint-plugin-jsx-a11y": "^6.6.1",
-        "eslint-plugin-prettier": "^4.2.1",
-        "eslint-plugin-react": "^7.31.11",
-        "eslint-plugin-react-hooks": "^4.6.0",
-        "eslint-plugin-testing-library": "^5.9.1",
-        "prettier": "^2.7.1"
+        "@gec.js/react-prettier-config": "1.0.0"
     }
 }
